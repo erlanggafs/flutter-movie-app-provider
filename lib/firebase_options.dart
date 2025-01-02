@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_944wqzUu_toA_LQjLD-1zmDWEF7SVME',
-    appId: '1:477118088747:android:0f8a922a8ba9c18c20cc6e',
+    apiKey: 'YOUR_API_KEY',
+    appId:YOUR_APP_ID',
     messagingSenderId: '477118088747',
-    projectId: 'flutter-movie-app-74f3a',
+    projectId: '',
     storageBucket: 'flutter-movie-app-74f3a.firebasestorage.app',
   );
 }
